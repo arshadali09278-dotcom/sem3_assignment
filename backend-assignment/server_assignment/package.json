@@ -1,0 +1,11 @@
+{
+  "name": "server-assignment",
+  "version": "1.0.0",
+  "main": "q4.js",
+  "scripts": {
+    "start": "node q4.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
